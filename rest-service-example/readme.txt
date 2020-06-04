@@ -1,0 +1,1 @@
+Tutorial Guide URL: https://spring.io/guides/gs/rest-service/#scratch
